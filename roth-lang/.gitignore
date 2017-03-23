@@ -1,7 +1,7 @@
 # FOLDERS
-bin/
-target/
-dev/
+/bin/
+/target/
+/dev/
 .settings/
 
 # EXTENSIONS
