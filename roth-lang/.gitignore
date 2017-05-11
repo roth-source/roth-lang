@@ -2,7 +2,7 @@
 /bin/
 /target/
 /dev/
-.settings/
+/.settings/
 
 # EXTENSIONS
 *.prefs
